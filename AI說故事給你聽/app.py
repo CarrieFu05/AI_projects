@@ -113,9 +113,6 @@ def azure_openai(user_input):
         {"role": "user", "content": custom_user_input},
     ]
 
-    # message_text[0]["content"] += "你是一個人工智慧助理, "
-    # message_text[0]["content"] += "請一律用繁體中文回答。"
-
     completion = client.chat.completions.create(
         model=config["AzureOpenAI"]["DEPLOYMENT_NAME"],
         messages=message_text,
