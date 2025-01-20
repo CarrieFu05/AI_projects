@@ -1,0 +1,138 @@
+[
+    {
+        "first_layer": "本檔最殺",
+        "first_layer_url": "https://www.pxmart.com.tw/campaign/life-will/best-buy",
+        "second_layer": [
+            {
+                "second_layer": "本檔必買",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/best-buy/%E6%9C%AC%E6%AA%94%E5%BF%85%E8%B2%B7.json?type=best-buy&parentCategory=%E6%9C%AC%E6%AA%94%E5%BF%85%E8%B2%B7"
+            },
+            {
+                "second_layer": "買一送一大集合",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/best-buy/%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80%E5%A4%A7%E9%9B%86%E5%90%88.json?type=best-buy&parentCategory=%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80%E5%A4%A7%E9%9B%86%E5%90%88"
+            },
+            {
+                "second_layer": "抗漲專區",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/best-buy/%E6%8A%97%E6%BC%B2%E5%B0%88%E5%8D%80.json?type=best-buy&parentCategory=%E6%8A%97%E6%BC%B2%E5%B0%88%E5%8D%80"
+            },
+            {
+                "second_layer": "憑卡買一送一",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/best-buy/%E6%86%91%E5%8D%A1%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80.json?type=best-buy&parentCategory=%E6%86%91%E5%8D%A1%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80"
+            },
+            {
+                "second_layer": "卡友特惠價",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/best-buy/%E5%8D%A1%E5%8F%8B%E7%89%B9%E6%83%A0%E5%83%B9.json?type=best-buy&parentCategory=%E5%8D%A1%E5%8F%8B%E7%89%B9%E6%83%A0%E5%83%B9"
+            }
+        ]
+    },
+    {
+        "first_layer": "類別促銷商品",
+        "first_layer_url": "https://www.pxmart.com.tw/campaign/life-will/classification",
+        "second_layer": [
+            {
+                "second_layer": "休閒食品、泡麵、麵製品",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E4%BC%91%E9%96%92%E9%A3%9F%E5%93%81%E3%80%81%E6%B3%A1%E9%BA%B5%E3%80%81%E9%BA%B5%E8%A3%BD%E5%93%81.json?type=classification&parentCategory=%E4%BC%91%E9%96%92%E9%A3%9F%E5%93%81%E3%80%81%E6%B3%A1%E9%BA%B5%E3%80%81%E9%BA%B5%E8%A3%BD%E5%93%81"
+            },
+            {
+                "second_layer": "冷藏、冰凍食品",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E5%86%B7%E8%97%8F%E3%80%81%E5%86%B0%E5%87%8D%E9%A3%9F%E5%93%81.json?type=classification&parentCategory=%E5%86%B7%E8%97%8F%E3%80%81%E5%86%B0%E5%87%8D%E9%A3%9F%E5%93%81"
+            },
+            {
+                "second_layer": "個人清潔與美妝、保健用品",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E5%80%8B%E4%BA%BA%E6%B8%85%E6%BD%94%E8%88%87%E7%BE%8E%E5%A6%9D%E3%80%81%E4%BF%9D%E5%81%A5%E7%94%A8%E5%93%81.json?type=classification&parentCategory=%E5%80%8B%E4%BA%BA%E6%B8%85%E6%BD%94%E8%88%87%E7%BE%8E%E5%A6%9D%E3%80%81%E4%BF%9D%E5%81%A5%E7%94%A8%E5%93%81"
+            },
+            {
+                "second_layer": "家用清潔品、五金耗材",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E5%AE%B6%E7%94%A8%E6%B8%85%E6%BD%94%E5%93%81%E3%80%81%E4%BA%94%E9%87%91%E8%80%97%E6%9D%90.json?type=classification&parentCategory=%E5%AE%B6%E7%94%A8%E6%B8%85%E6%BD%94%E5%93%81%E3%80%81%E4%BA%94%E9%87%91%E8%80%97%E6%9D%90"
+            },
+            {
+                "second_layer": "嬰童寵物、紡織品",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E5%AC%B0%E7%AB%A5%E5%AF%B5%E7%89%A9%E3%80%81%E7%B4%A1%E7%B9%94%E5%93%81.json?type=classification&parentCategory=%E5%AC%B0%E7%AB%A5%E5%AF%B5%E7%89%A9%E3%80%81%E7%B4%A1%E7%B9%94%E5%93%81"
+            },
+            {
+                "second_layer": "沖調營養品、保健食品",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E6%B2%96%E8%AA%BF%E7%87%9F%E9%A4%8A%E5%93%81%E3%80%81%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81.json?type=classification&parentCategory=%E6%B2%96%E8%AA%BF%E7%87%9F%E9%A4%8A%E5%93%81%E3%80%81%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81"
+            },
+            {
+                "second_layer": "南北貨、油品、調味料、罐頭",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E5%8D%97%E5%8C%97%E8%B2%A8%E3%80%81%E6%B2%B9%E5%93%81%E3%80%81%E8%AA%BF%E5%91%B3%E6%96%99%E3%80%81%E7%BD%90%E9%A0%AD.json?type=classification&parentCategory=%E5%8D%97%E5%8C%97%E8%B2%A8%E3%80%81%E6%B2%B9%E5%93%81%E3%80%81%E8%AA%BF%E5%91%B3%E6%96%99%E3%80%81%E7%BD%90%E9%A0%AD"
+            },
+            {
+                "second_layer": "飲料與酒類",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E9%A3%B2%E6%96%99%E8%88%87%E9%85%92%E9%A1%9E.json?type=classification&parentCategory=%E9%A3%B2%E6%96%99%E8%88%87%E9%85%92%E9%A1%9E"
+            },
+            {
+                "second_layer": "蔬菜水果",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E8%94%AC%E8%8F%9C%E6%B0%B4%E6%9E%9C.json?type=classification&parentCategory=%E8%94%AC%E8%8F%9C%E6%B0%B4%E6%9E%9C"
+            },
+            {
+                "second_layer": "鮮魚精肉",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E9%AE%AE%E9%AD%9A%E7%B2%BE%E8%82%89.json?type=classification&parentCategory=%E9%AE%AE%E9%AD%9A%E7%B2%BE%E8%82%89"
+            },
+            {
+                "second_layer": "調理烘焙",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/classification/%E8%AA%BF%E7%90%86%E7%83%98%E7%84%99.json?type=classification&parentCategory=%E8%AA%BF%E7%90%86%E7%83%98%E7%84%99"
+            }
+        ]
+    },
+    {
+        "first_layer": "主題促銷",
+        "first_layer_url": "https://www.pxmart.com.tw/campaign/life-will/topic",
+        "second_layer": [
+            {
+                "second_layer": "全聯火鍋祭",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E5%85%A8%E8%81%AF%E7%81%AB%E9%8D%8B%E7%A5%AD.json?type=topic&parentCategory=%E5%85%A8%E8%81%AF%E7%81%AB%E9%8D%8B%E7%A5%AD"
+            },
+            {
+                "second_layer": "衛生紙小學堂",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E8%A1%9B%E7%94%9F%E7%B4%99%E5%B0%8F%E5%AD%B8%E5%A0%82.json?type=topic&parentCategory=%E8%A1%9B%E7%94%9F%E7%B4%99%E5%B0%8F%E5%AD%B8%E5%A0%82"
+            },
+            {
+                "second_layer": "麵食大賞",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E9%BA%B5%E9%A3%9F%E5%A4%A7%E8%B3%9E.json?type=topic&parentCategory=%E9%BA%B5%E9%A3%9F%E5%A4%A7%E8%B3%9E"
+            },
+            {
+                "second_layer": "聖誕巧克力大賞",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E8%81%96%E8%AA%95%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%A4%A7%E8%B3%9E.json?type=topic&parentCategory=%E8%81%96%E8%AA%95%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%A4%A7%E8%B3%9E"
+            },
+            {
+                "second_layer": "冬季美麗對策",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E5%86%AC%E5%AD%A3%E7%BE%8E%E9%BA%97%E5%B0%8D%E7%AD%96.json?type=topic&parentCategory=%E5%86%AC%E5%AD%A3%E7%BE%8E%E9%BA%97%E5%B0%8D%E7%AD%96"
+            },
+            {
+                "second_layer": "全聯經濟魷戲",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E5%85%A8%E8%81%AF%E7%B6%93%E6%BF%9F%E9%AD%B7%E6%88%B2.json?type=topic&parentCategory=%E5%85%A8%E8%81%AF%E7%B6%93%E6%BF%9F%E9%AD%B7%E6%88%B2"
+            },
+            {
+                "second_layer": "美國華盛頓蘋果週",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/topic/%E7%BE%8E%E5%9C%8B%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%98%8B%E6%9E%9C%E9%80%B1.json?type=topic&parentCategory=%E7%BE%8E%E5%9C%8B%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%98%8B%E6%9E%9C%E9%80%B1"
+            }
+        ]
+    },
+    {
+        "first_layer": "超級品牌月",
+        "first_layer_url": "https://www.pxmart.com.tw/campaign/life-will/brand",
+        "second_layer": [
+            {
+                "second_layer": "超級品牌月-雀巢",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/brand/%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E9%9B%80%E5%B7%A2.json?type=brand&parentCategory=%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E9%9B%80%E5%B7%A2"
+            },
+            {
+                "second_layer": "超級品牌月-佳格",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/brand/%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E4%BD%B3%E6%A0%BC.json?type=brand&parentCategory=%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E4%BD%B3%E6%A0%BC"
+            },
+            {
+                "second_layer": "超級品牌月-佰事達恆天然",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/brand/%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E4%BD%B0%E4%BA%8B%E9%81%94%E6%81%86%E5%A4%A9%E7%84%B6.json?type=brand&parentCategory=%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E4%BD%B0%E4%BA%8B%E9%81%94%E6%81%86%E5%A4%A9%E7%84%B6"
+            },
+            {
+                "second_layer": "超級品牌月-耐斯",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/brand/%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E8%80%90%E6%96%AF.json?type=brand&parentCategory=%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E8%80%90%E6%96%AF"
+            },
+            {
+                "second_layer": "超級品牌月-寶僑",
+                "second_layer_url": "https://www.pxmart.com.tw/_next/data/XoKPkcZ1hAThbvqw6F671/campaign/life-will/brand/%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E5%AF%B6%E5%83%91.json?type=brand&parentCategory=%E8%B6%85%E7%B4%9A%E5%93%81%E7%89%8C%E6%9C%88-%E5%AF%B6%E5%83%91"
+            }
+        ]
+    }
+]

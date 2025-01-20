@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>買菜小幫手</title>
+    <!-- BS5 CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+      crossorigin="anonymous"
+    />
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-light bg-light mb-3">
+      <div class="container-fluid">
+        <a class="navbar-brand fs-2" href="{{url_for('formPage')}}">百元吃好每一餐</a>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+          <!-- 左側輸入表單 -->
+          <div class="col-md-5 input mb-3">
+            <h3 class="mb-3">請輸入資訊</h3>
+            <form action="/submit" method="post">
+              <p>採買店：全聯</p>
+              <label for="person">用餐人數</label>
+              <input
+                type="text"
+                id="person"
+                name="person"
+                value="{{person}}"
+              /><br /><br />
+              <label for="price">每人用餐預算</label>
+              <input
+                type="text"
+                id="price"
+                name="price"
+                value="{{price}}"
+              /><br /><br />
+              <label for="dishes">希望有幾個菜?</label>
+              <input
+                type="text"
+                id="dishes"
+                name="dishes"
+                value="{{dishes}}"
+              /><br /><br />
+              <label for="soup">需要湯嗎?</label>
+              <input
+                type="radio"
+                id="soup_yes"
+                name="soup"
+                value="1"
+                {{soup_yes}}
+              />
+              <label for="soup_yes">要</label>
+              <input
+                type="radio"
+                id="soup_no"
+                name="soup"
+                value="0"
+                {{soup_no}}
+              />
+              <label for="soup_no">不要</label><br /><br />
+              <span>飲食限制</span><br />
+              <div class="ps-3">
+                <input
+                  type="checkbox"
+                  id="beef"
+                  name="beef"
+                  class="limit"
+                  value="on"
+                  {{beef_mark}}
+                />
+                <label for="beef">不吃牛肉</label><br />
+                <input
+                  type="checkbox"
+                  id="shrimp"
+                  name="shrimp"
+                  class="limit"
+                  value="on"
+                  {{shrimp_mark}}
+                />
+                <label for="shrimp">不吃蝦蟹</label><br />
+                <input
+                  type="checkbox"
+                  id="fish"
+                  name="fish"
+                  class="limit"
+                  value="on"
+                  {{fish_mark}}
+                />
+                <label for="fish">不吃魚</label><br />
+                <input
+                  type="checkbox"
+                  id="spicy"
+                  name="spicy"
+                  class="limit"
+                  value="on"
+                  {{spicy_mark}}
+                />
+                <label for="spicy">不吃辣</label><br />
+                <label for="other_limit" class="limit">有其他不吃的嗎?</label>
+                <input
+                  type="text"
+                  id="other_limit"
+                  name="other_limit"
+                  value="{{other_limit}}"
+                  {{other_limit_mark}}
+                /><br /><br />
+              </div>
+              <input type="submit" value="生成菜單" />
+            </form>
+          </div>
+
+          <!-- 右側渲染結果 -->
+          <div class="col-md-7 output mb-3">
+            <!-- 動態渲染的 HTML 內容 -->
+            {{ output|safe }}
+          </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- BS5 JavaScript -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

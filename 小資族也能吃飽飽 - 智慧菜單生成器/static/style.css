@@ -1,0 +1,16 @@
+body {
+  /* 放入 static/background.jpg 作為背景圖片 */
+  background-image: url("background.jpg");
+  background-size: cover; /* 圖片覆蓋整個背景 */
+  background-position: center; /* 背景圖片置中 */
+  background-repeat: no-repeat; /* 防止圖片重複 */
+}
+div.input,
+div.output {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* 設定背景顏色為白色並透明度為 50% */
+}
