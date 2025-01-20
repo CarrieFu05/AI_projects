@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title></title>
+        <link rel='stylesheet' href="{{url_for('static', filename='css/style.css')}}">
+    </head>
+    <body>
+        <form action="/submit" method="post" enctype="multipart/form-data" id="myform">
+            <input type="file" name="file1" placeholder="upload file">
+            <input type="submit" value="檔案上傳">
+        </form>
+        <br>
+        <p id="return_result">{{prediction}}</p>
+        <div id="row">
+            <div id="myGraph" class="column1">
+                <video id="myVideo" width="640" height="480" controls></video>
+            </div>
+            <div id="chat" class="column2">
+                <textarea id="dialog"></textarea>
+                <input type="text" id="message" name="message" placeholder="Enter your message" disabled>
+                <button id="submit" type="button" disabled>Send</button>
+            </div>
+        </div>
+        <div id="video_file_name" style="visibility: hidden;">{{filename}}</div>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="{{url_for('static',filename='js/main.js')}}"></script>
+    </body>
+</html>
