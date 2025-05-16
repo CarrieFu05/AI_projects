@@ -143,7 +143,7 @@ def call_gemini(sentiment_result, mining_result, user_msg):
     )
     user_input = ""
 
-    if mining_result == "no":
+    if mining_result == None:
         user_input = f"客戶說:{user_msg},客戶對於這一次服務的感覺是{sentiment_result}，請針對這樣的感覺寫一段回覆給客戶，50個字以內。"
     else:
         user_input = f"客戶說:{user_msg},客戶對於這一次服務的感覺是{sentiment_result}，他的感覺是對於{mining_result}，請針對這樣的感覺寫一段回覆給客戶，特別針對{mining_result}，50個字以內。"
